@@ -4,4 +4,3 @@ pinecone-client
 mistralai
 Pillow
 matplotlib
-pymupdf4llm
