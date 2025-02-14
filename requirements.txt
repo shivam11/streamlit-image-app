@@ -2,8 +2,6 @@ streamlit
 pymupdf4llm
 pinecone-client
 mistralai
-google-auth-oauthlib
-google-auth
-google-api-python-client
 Pillow
 matplotlib
+pymupdf4llm
